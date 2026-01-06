@@ -69,27 +69,29 @@ Random Forest | **~3.13** |
 ---
 
 ## 📁 Project Structure
-"""
+## 📁 Project Structure
+
+```
 energy-consumption-forecast/
 │
 ├── data/
-│ ├── raw/
-│ └── processed/
+│   ├── raw/
+│   └── processed/
 │
 ├── notebooks/
-│ └── 01_data_exploration.ipynb
+│   └── 01_data_exploration.ipynb
 │
 ├── src/
-│ ├── features.py
-│ └── predict.py
+│   ├── features.py
+│   └── predict.py
 │
 ├── models/
-│ └── energy_forecast_model.pkl
+│   └── energy_forecast_model.pkl
 │
 ├── requirements.txt
 ├── README.md
 └── .gitignore
-"""
+```
 
 ---
 
