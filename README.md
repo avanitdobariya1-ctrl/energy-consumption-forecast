@@ -69,7 +69,7 @@ Random Forest | **~3.13** |
 ---
 
 ## 📁 Project Structure
-
+"""
 energy-consumption-forecast/
 │
 ├── data/
@@ -89,7 +89,7 @@ energy-consumption-forecast/
 ├── requirements.txt
 ├── README.md
 └── .gitignore
-
+"""
 
 ---
 
